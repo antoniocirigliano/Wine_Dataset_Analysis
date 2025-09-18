@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook for analyzing and modeling the **Win
 The dataset is already included in the repository (see the `data/` folder), so you can run the notebook without downloading anything externally.
 
 ## 📂 Contents
-- `wine_ml_models.ipynb` → main notebook with data exploration, preprocessing, and classification models
+- `wine_ml_models.ipynb` → main notebook with data exploration, preprocessing and classification models
 - `data/wine.csv` → dataset used for the analysis
 
 ## 📊 Dataset
