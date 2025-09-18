@@ -1,10 +1,11 @@
-# Wine Dataset Analysis
+# Wine_Dataset_Analysis
 
-This repository contains a Jupyter Notebook for analyzing and modeling the [Wine dataset](https://archive.ics.uci.edu/ml/datasets/wine).  
-The dataset is widely used for classification tasks, where the goal is to predict the wine cultivar based on chemical analysis of its components.
+This repository contains a Jupyter Notebook for analyzing and modeling the **Wine dataset**.  
+The dataset is already included in the repository (see the `data/` folder), so you can run the notebook without downloading anything externally.
 
 ## 📂 Contents
-- `wine_analysis.ipynb` → main notebook with data exploration, preprocessing, and classification models.
+- `wine_analysis.ipynb` → main notebook with data exploration, preprocessing, and classification models
+- `data/wine.csv` → dataset used for the analysis
 
 ## 📊 Dataset
 The Wine dataset consists of **178 samples** of wines from three different cultivars.  
